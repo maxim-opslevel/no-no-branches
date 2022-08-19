@@ -1,0 +1,16 @@
+---
+version: 1
+service:
+  name: no-no-branches
+  lifecycle:
+  tier: tier_1
+  product:
+  owner: backend
+  language:
+  framework:
+  description: Routes traffic to the proper service
+  aliases:
+  tags:
+  repositories:
+  tools:
+  dependencies:
